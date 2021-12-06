@@ -34,7 +34,6 @@ public class Liste {
         } else if (auswahl == 2) {
             Person pPerson = new Person();
             addBack(pPerson);
-
         } else if (auswahl == 3) {
             alleAnzeigen();
 
